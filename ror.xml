@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://codenesthq.com/</title>
+  <link>https://codenesthq.com/</link>
+
+<item>
+     <link>https://codenesthq.com/</link>
+     <title>CodeNestHQ – Your Ultimate Hub for Free Online Tools and Calculators!</title>
+     <description>At CodeNestHQ, we are dedicated to providing a comprehensive suite of free online tools and calculators designed to make your life easier.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/</link>
+     <title>CodeNestHQ – Your Ultimate Hub for Free Online Tools and Calculators!</title>
+     <description>At CodeNestHQ, we are dedicated to providing a comprehensive suite of free online tools and calculators designed to make your life easier.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/terms/</link>
+     <title>Terms &amp; Conditions - CodeNestHQ</title>
+     <description>At CodeNestHQ, we are dedicated to providing a comprehensive suite of free online tools and calculators designed to make your life easier.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/calculateReadingTime.php</link>
+     <title>Reading Time Calculator - CodeNestHQ</title>
+     <description>The Reading Time Calculator is a user-friendly tool designed to estimate the time required to read a given text based on its length and the reader's average reading speed.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
