@@ -115,6 +115,63 @@ $og = "https://codenesthq.com/assets/bg/1.jpg";
                         </div>
                     </div>
                 </section>
+                <!-- Divider-->
+                <div class="pb-5"></div>
+                <!-- Divider-->
+                <section>
+                    <div class="d-flex align-items-center justify-content-between mb-4">
+                        <h2 class="text-primary fw-bolder mb-0">Lorem Ipsum Generator</h2>
+                        <a class="btn btn-primary px-4 py-3" href="/tools/generateLoremIpsum.php">
+                            <div class="d-inline-block bi bi-download me-2"></div>
+                            Use Tool
+                        </a>
+                    </div>
+                    <div class="card shadow border-0 rounded-4 mb-5">
+                        <div class="card-body p-5">
+                            <div class="row align-items-center gx-5">
+                                <div class="col-lg-12"><div>Generate placeholder text for your designs, helping you visualize how the final text will look.</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Divider-->
+                <div class="pb-5"></div>
+                <!-- Divider-->
+                <section>
+                    <div class="d-flex align-items-center justify-content-between mb-4">
+                        <h2 class="text-primary fw-bolder mb-0">HTML Encoder/Decoder</h2>
+                        <a class="btn btn-primary px-4 py-3" href="/tools/encodeDecodeHTML.php">
+                            <div class="d-inline-block bi bi-download me-2"></div>
+                            Use Tool
+                        </a>
+                    </div>
+                    <div class="card shadow border-0 rounded-4 mb-5">
+                        <div class="card-body p-5">
+                            <div class="row align-items-center gx-5">
+                                <div class="col-lg-12"><div>Securely encode your HTML to prevent XSS attacks, or decode HTML to read the content easily.</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Divider-->
+                <div class="pb-5"></div>
+                <!-- Divider-->
+                <section>
+                    <div class="d-flex align-items-center justify-content-between mb-4">
+                        <h2 class="text-primary fw-bolder mb-0">URL Encoder &amp; URL Decoder</h2>
+                        <a class="btn btn-primary px-4 py-3" href="/tools/encodeDecodeURL.php">
+                            <div class="d-inline-block bi bi-download me-2"></div>
+                            Use Tool
+                        </a>
+                    </div>
+                    <div class="card shadow border-0 rounded-4 mb-5">
+                        <div class="card-body p-5">
+                            <div class="row align-items-center gx-5">
+                                <div class="col-lg-12"><div>Prepare URLs for transmission over the internet, or decode them to read the original text.</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
 
             </div>
         </div>

@@ -2,3 +2,9 @@ https://codenesthq.com/
 https://codenesthq.com/tools/
 https://codenesthq.com/terms/
 https://codenesthq.com/tools/calculateReadingTime.php
+https://codenesthq.com/tools/generateRandomWord.php
+https://codenesthq.com/tools/convertTextBinary.php
+https://codenesthq.com/tools/convertToSlug.php
+https://codenesthq.com/tools/generateLoremIpsum.php
+https://codenesthq.com/tools/encodeDecodeHTML.php
+https://codenesthq.com/tools/encodeDecodeURL.php

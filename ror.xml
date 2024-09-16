@@ -36,6 +36,54 @@
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
+<item>
+     <link>https://codenesthq.com/tools/generateRandomWord.php</link>
+     <title>Random Word Generator - CodeNestHQ</title>
+     <description>Stimulate creativity and brainstorming sessions by generating random words. Generate a random word from a predefined list</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/convertTextBinary.php</link>
+     <title>Text to Binary/Binary to Text - CodeNestHQ</title>
+     <description>Convert text to binary code and vice versa, helping in various coding and encryption tasks.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/convertToSlug.php</link>
+     <title>Text to Slug - CodeNestHQ</title>
+     <description>Create SEO-friendly URLs by converting text into slugs, making your links cleaner and more readable.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/generateLoremIpsum.php</link>
+     <title>Lorem Ipsum Generator - CodeNestHQ</title>
+     <description>Generate placeholder text for your designs, helping you visualize how the final text will look.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/encodeDecodeHTML.php</link>
+     <title>HTML Encoder/Decoder - CodeNestHQ</title>
+     <description>Securely encode your HTML to prevent XSS attacks, or decode HTML to read the content easily.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://codenesthq.com/tools/encodeDecodeURL.php</link>
+     <title>URL Encoder / URL Decoder - CodeNestHQ</title>
+     <description>Prepare URLs for transmission over the internet, or decode them to read the original text.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
 </channel>
 </rss>
   
